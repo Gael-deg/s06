@@ -1,0 +1,47 @@
+*{
+	font-family: "Verdana";
+	font-size: 20px;
+}
+
+#external{
+	color: yellow;
+}
+
+h1{
+	font-size: 3rem;
+}
+
+
+#h2-id{
+	text-transform: uppercase;
+}
+
+.green{
+	background-color: #aed19d;
+}
+
+li[spellcheck]{
+	border-width: 3px;
+	border-style: solid;
+	border-color: blue;
+}
+
+ img + ul{
+
+	list-style-type:none ;
+}
+
+section img{
+	height: 150px;
+	width: 150px;
+	border-radius: 150px;
+}
+
+ul > li {
+	letter-spacing: 10px;
+}
+
+ul ~ p {
+	text-align: center;
+}
+
